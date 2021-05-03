@@ -21,3 +21,6 @@ This is my repo for my competition of kaggle/tianchi competition.
 ### Pipelines
 
 1. [basic-pipeline-for-pytorchers](./Tricks/Pipelines/basic-pipeline-for-pytorchers.ipynb)
+
+### Tools
+1. [Auto Parameter Optimize Tool](https://optuna.readthedocs.io/zh_CN/latest/index.html)
