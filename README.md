@@ -15,3 +15,9 @@ This is my repo for my competition of kaggle/tianchi competition.
 | Date | Competition | Rank | Solution |
 | --- | --- | --- | --- |
 | 2021-03 | [2021 “AI Earth”人工智能创新挑战赛](https://tianchi.aliyun.com/competition/entrance/531871/introduction) | 74/2849(2.6%) | [Code](./Tianchi/aiearth_competition) |
+
+## Tricks
+
+### Pipelines
+
+1. [basic-pipeline-for-pytorchers](./Tricks/Pipelines/basic-pipeline-for-pytorchers.ipynb)
