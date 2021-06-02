@@ -9,6 +9,7 @@ This is my repo for my competition of kaggle/tianchi competition.
 | Date | Competition | Rank | Solution |
 | --- | --- | --- | --- |
 | 2020-06 | [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection) | 259/2245(12%) | [Baseline Notebook](https://www.kaggle.com/whurobin/training-efficientdet),  [Best Score Notebook](https://www.kaggle.com/m1nglei/fork-of-fork-of-effdet-d5-inference-pseudo-len0?scriptVersionId=40146910)|
+| 2021-06 | [BirdCLEF 2021 - Birdcall Identification](https://www.kaggle.com/c/birdclef-2021) | 18/828(2%) | [Codes](./Kaggle/BirdCLEF-2021/),  [Best Score Notebook](https://www.kaggle.com/iafoss/birdclef2021-combine-probs?scriptVersionId=64622626)|
 
 ## Tianchi
 
